@@ -68,7 +68,7 @@ void evalprefix(char *symbol) {
 ```
 
 ## Output:
-
+![image](https://github.com/user-attachments/assets/38dc5c5a-08d0-446b-86d7-3e5c9ab35cc2)
 
 
 ## Result:
